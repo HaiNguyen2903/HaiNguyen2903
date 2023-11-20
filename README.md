@@ -11,6 +11,7 @@
 🎓 &nbsp;At the moment, I am studying Master of Data Science and Innovation at University of Technology Sydney (UTS).\
 🌱 &nbsp;I'm on the way of learning Machine Learning, Artificial Intelligence and other related fields.\
 💬 &nbsp;Here is a collection of my tiny projects and exercise for praticing and learning.
+👨‍💻 &nbsp;You can visit my <a href="https://hainguyen2903.github.io/HaiNguyen2903/">Portfolio</a> to know more about my exciting projects and works.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
