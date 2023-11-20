@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>License Plate Recognition</title>
+    <title>Multi-Object Tracking</title>
     <meta name="description" content="Case study page of Project" />
 
     <link rel="stylesheet" href="css/style.css" />
@@ -84,16 +84,16 @@
     </header>
     <section class="project-cs-hero">
       <div class="project-cs-hero__content">
-        <h1 class="heading-primary">License Plate Recognition</h1>
+        <h1 class="heading-primary">Multi-Object Tracking</h1>
         <div class="project-cs-hero__info">
           <p class="text-primary">
-            An automatic system that recognizes license plates of vehicles entering 
-            and exiting the parking lot on edge devices.
+            A single camera tracking system that is trained and evaluated 
+            on 50 different observation areas.
           </p>
         </div>
-        <!-- <div class="project-cs-hero__cta">
-          <a href="#" class="btn btn--bg" target="_blank">Live Link</a>
-        </div> -->
+        <div class="project-cs-hero__cta">
+          <a href="https://www.youtube.com/watch?v=SD1mZcD45pw" class="btn btn--bg" target="_blank">Demo</a>
+        </div>
       </div>
     </section>
     <section class="project-details">
@@ -101,41 +101,55 @@
         <div class="project-details__content">
           <div class="project-details__showcase-img-cont">
             <img
-              src="./assets/thumbnail/license_plate_thumbnail.png"
+              src="./assets/thumbnail/mot_thumbnail.jpeg"
               alt="Project Image"
               class="project-details__showcase-img"
             />
           </div>
           <div class="project-details__content-main">
-            
             <div class="project-details__desc">
               <h3 class="project-details__content-title">Project Overview</h3>
               <p class="project-details__desc-para">
-                Focused on accurately identifying and recording vehicle license plates, 
-                this initiative aims to streamline entry and exit processes within parking lots. 
-                Utilizing advanced image processing and pattern recognition algorithms, 
-                the system can efficiently recognize license plates, facilitating seamless 
-                access control and improving overall security. The system is combined of multiple 
-                deep learning models, which includes YOLOv5, WPOD-Net and OCR.
+                This innovative project seeks to streamline surveillance by efficiently monitoring 
+                and tracing the movement of various objects using a single camera. By leveraging 
+                advanced computer vision and machine learning technologies, the system aims to 
+                provide comprehensive tracking capabilities, enhancing security protocols within 
+                confined spaces. 
               </p>
               <p class="project-details__desc-para">
-                The system is deployed on NVIDIA Jetson Xavier device and 
-              being applied efficiently by our clients in both Korean and Russian.
+                The project benchmarked various deep learning networks and different optimization
+                techniques, including DeepSORT, FairMOT, Tree Parzen Estimator and feature matching 
+                algorithms. The system is a breakthrough step to achieve a more ambitious system, a Muti-Camera
+                Multi-Object Tracking system.
+              </p>
+              <p class="project-details__desc-para">
+                The system is a breakthrough step to achieve a more ambitious system, a Muti-Camera
+                Multi-Object Tracking system.
               </p>
             </div>
 
             <div class="project-details__desc">
               <h3 class="project-details__content-title">Responsibilities</h3>
               <p class="project-details__desc-para">
-                Experimented, error analysed and intergrated multiple models 
-                (YOLOv5, WPOD-Net, ...), resulted in <strong>more than 98% in term of accuracy</strong>.
+                Researched, developed and ensembled several detection models for comparative 
+                analysis (mostly YOLOv5 and CenterNet).
               </p>
               <p class="project-details__desc-para">
-                Deployed trained model on NVIDIA Jetson Xavier device. Built server-client protocol to 
-                verified system pipeline and dockerized product.
+                Research, optimized and benchmarked different tracking models (DeepSORT, FairMOT), 
+                resulted in <strong>approximately 85% in term of MOTA metric</strong> on collected dataset.
+              </p>
+              <p class="project-details__desc-para">
+                <strong>Designed partial automation pipeline</strong> with detection model to visualize and extract 
+                most valuable data partitions, resulted in much smaller and more meaningful dataset.
+              </p>
+              <p class="project-details__desc-para">
+                <strong>Leaded data team and annotation pipeline</strong>, including data collection, extraction, 
+                annotation and quality verfication.
+              </p>
+              <p class="project-details__desc-para">
+                Prepared weekly reports and represented project progress to stakeholders.
               </p>
             </div>
-
 
             <div class="project-details__tools-used">
               <h3 class="project-details__content-title">Tools Used</h3>
@@ -149,14 +163,14 @@
             </div>
             <div class="project-details__links">
               <h3 class="project-details__content-title">References</h3>
-              <!-- <a
-                href="#"
+              <a
+                href="https://www.youtube.com/watch?v=SD1mZcD45pw"
                 class="btn btn--med btn--theme project-details__links-btn"
                 target="_blank"
-                >Live Link</a
-              > -->
+                >Demo</a
+              >
               <a
-                href="#"
+                href="https://github.com/HaiNguyen2903/YoloV5_Deepsort_Custom"
                 class="btn btn--med btn--theme-inv project-details__links-btn"
                 target="_blank"
                 >Code Link</a
@@ -214,7 +228,7 @@
           <div class="main-footer__row main-footer__row-2">
             <h4 class="heading heading-sm text-lt">Harry Nguyen</h4>
             <p class="main-footer__short-desc">
-            Kingsgrove, NSW, Sydney, Australia.
+              Kingsgrove, NSW, Sydney, Australia.
             </p>
           </div>
         </div>
