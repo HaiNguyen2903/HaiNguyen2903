@@ -4,7 +4,7 @@
 
 ## 👋 &nbsp;Hey there! My name is Hai
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me (<a href="https://hainguyen2903.github.io/HaiNguyen2903/">Portfolio</a>)
 
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\ -->
 🎓 &nbsp;I graduated as a Bachelor of Computer Science from the University of Engineering and Technology - Vietnam National University.\
