@@ -4,11 +4,11 @@
 
 ## 👋 &nbsp;Hey there! My name is Hai (Harry)
 
-### 👨🏻‍💻 &nbsp;About Me (<a href="https://hainguyen2903.github.io/gitprofile/">Portfolio</a>)
+### 👨🏻‍💻 &nbsp;About Me (<a href="https://harrynguyen-portfolio.com">Portfolio</a>)
 
 <!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\ -->
-🎓 &nbsp;I graduated as a Bachelor of Computer Science from the University of Engineering and Technology - Vietnam National University.\
-🎓 &nbsp;At the moment, I am studying Master of Data Science and Innovation at University of Technology Sydney (UTS).\
+🎓 &nbsp;Bachelor in Computer Science - University of Engineering and Technology - Vietnam National University.\
+🎓 &nbsp;Master in Data Science and Innovation - University of Technology Sydney (UTS).\
 🌱 &nbsp;I'm on the way of learning Machine Learning, Artificial Intelligence and other related fields.\
 💬 &nbsp;Here is a collection of my tiny projects and exercise for praticing and learning. \
 👨‍💻 &nbsp;You can visit my <a href="https://hainguyen2903.github.io/HaiNguyen2903/">Portfolio</a> to know more about my exciting projects and works.
