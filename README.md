@@ -16,7 +16,7 @@ I build reliable, production-ready AI systems — from retrieval and evaluation 
 
 - Master of Data Science — University of Technology Sydney
 - Bachelor of Computer Science
-- 2+ years of experience across AI/ML research and engineering
+- Years of experience across Data/AI/ML research and engineering
 - Background in computer vision, edge AI, machine learning, and data science
 - Currently focused on LLM, RAG, and agentic AI systems
 
